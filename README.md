@@ -1,16 +1,10 @@
-<html>
+public class MyFirstJavaProgram {
 
-<head>
-	<title>My First Program</title>
-</head>
+   /* This is my first java program.
+    * This will print 'Hello World' as the output
+    */
 
-<body>
-	<h1>Hello GeeksforGeeks</h1>
-	<p> A Computer Science portal for geeks<br>
-		A Computer Science portal for geeks<br>
-		A Computer Science portal for geeks<br>
-	</p>
-
-</body>
-
-</html>
+   public static void main(String []args) {
+      System.out.println("Hello World"); // prints Hello World
+   }
+}
